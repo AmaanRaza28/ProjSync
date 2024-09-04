@@ -50,7 +50,7 @@ To run the project locally:
 
 1.	Clone the repository:
 ```bash
-git clone https://github.com/yourusername/project-management-app.git
+git clone https://github.com/AmaanRaza28/ProjSync
 cd project-management-app
 ```
 
